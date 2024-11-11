@@ -1,0 +1,14 @@
+BOUNDARIES
+This program calculates the boundaries of the
+interval that includes the minimum point for
+an unimodal function located in the positive domain of the x-axis.
+
+xa=0.000000  xb=0.381966  fa=6.000000   fb=4.236068
+xa=0.000000   xb=0.527864   fa=6.000000    fb=3.639320
+xa=0.381966   xb=0.875388   fa=4.236068    fb=2.389364
+xa=0.527864   xb=1.411383   fa=3.639320    fb=0.935087
+xa=0.875388   xb=2.284852   fa=2.389364    fb=-0.203711
+xa=1.411383   xb=3.696687   fa=0.935087    fb=1.182061
+
+Final results:
+left bound=1.411383    right bound=3.696687
